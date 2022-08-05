@@ -1,0 +1,94 @@
+*{
+    color:black;
+    background-color:#b27d40;
+    font-family: "Optima", sans-serif;
+}
+h1{
+    color:antiquewhite
+}
+.heading{
+    text-align: center;
+}
+
+.container{
+    width:80%;
+    margin-left:10%;
+    background-color:aliceblue;
+    height: 33em;
+    border-radius: 10%;
+    opacity: .50;
+    
+    
+}
+.form{
+    padding-top: 2em;
+    opacity: .50;
+    text-align: center;
+    padding-bottom: 5em;
+    
+    
+}
+.miles{
+    opacity: 1;
+    width: 5em;
+    font-size: medium;
+    color:red;
+    background-color: antiquewhite;
+    border-radius: 10%;
+}
+.plan{
+    height: 25em;
+    color:black;
+    padding-top: .5em;
+   
+}
+.day1{
+    width:13%;
+    background-color: aliceblue;
+    float:left;
+    margin-left: 4.5%;
+    height:100%;
+    border-radius: 15%;
+}
+.day2{
+    width:13%;
+    float: left;
+    height:100%;
+    border-radius: 15%;
+    
+    
+}
+.day3{
+    width:13%;
+    background-color: aliceblue;
+    float:left;
+    height:100%;
+    border-radius: 15%;
+}
+.day4{
+    width:13%;
+    float: left;
+    height:100%;
+    border-radius: 15%;
+}
+.day5{
+    width:13%;
+    background-color: aliceblue;
+    float:left;
+    height:100%;
+    border-radius: 15%;
+}
+.day6{
+    width:13%;
+    float: left;
+    height:100%;
+    border-radius: 15%;
+}
+.day7{
+    width:13%;
+    background-color: aliceblue;
+    float:left;
+    height:100%;
+    border-radius: 15%;
+}
+

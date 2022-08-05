@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>Running Plan</title>
+        <link rel="stylesheet" href="styles.css"></link>
+        
+    </head>
+    <body>
+        
+        <div class="heading">
+            <h1>Running Planner</h1>
+        </div>
+        <div class="container">
+            <div class="form">
+                <form>
+                    <label for="mile">Enter number of miles you want to run today:</label>
+                    <input id="mile" type="number" class="miles" min="0" max="120" >
+                    <br>
+                    <button onclick="getMiles()" class="submit" value="submit">Submit</button>
+                </form>
+
+                
+                <div class="plan">
+                    <div class="day1">Day 1</div>
+                    <div class="day2">Day 2</div>
+                    <div class="day3">Day 3</div>
+                    <div class="day4">Day 4</div>
+                    <div class="day5">Day 5</div>
+                    <div class="day6">Day 6</div>
+                    <div class="day7">Day 7</div>
+                </div>
+            </div>
+
+
+        </div>
+        <p id="text"></p>
+        
+        <script src="index.js"></script>
+        
+    </body>
+
+</html>
+
